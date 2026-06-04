@@ -9,6 +9,10 @@ const state = {
   activeGalleryIndex: 0
 };
 
+// Base URL for images. Set this to your CDN domain (e.g., 'https://images.wayfarerswoes.com/' or Backblaze bucket URL)
+// to host images externally. Leave empty '' to load from local repository paths.
+const IMAGE_BASE_URL = '';
+
 // Substack Feed Config
 const SUBSTACK_URL = 'https://anilgopakumar.substack.com/feed';
 const RSS2JSON_API = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(SUBSTACK_URL)}`;
@@ -794,9 +798,14 @@ function renderGallery() {
     card.style.opacity = '0'; // Stagger fade-in animation trigger
     card.addEventListener('click', () => openGalleryModal(index));
     
+    // Use thumbnail for DSLR photos, fallback to original for others
+    const thumbnailSrc = (item.filename && item.filename.startsWith('images/ag-edits/')) 
+      ? item.filename.replace('images/ag-edits/', 'images/ag-edits-thumbnails/') 
+      : item.filename;
+      
     card.innerHTML = `
       <div class="gallery-img-wrapper">
-        <img src="${item.filename}" class="gallery-img" alt="${item.title}" loading="lazy">
+        <img src="${IMAGE_BASE_URL}${thumbnailSrc}" class="gallery-img" alt="${item.title}" loading="lazy">
       </div>
       <div class="gallery-card-info">
         <div class="gallery-card-meta">
@@ -937,7 +946,7 @@ function openGalleryModal(index) {
     };
     
     // Set source to trigger load (onload is defined before setting source to avoid race conditions)
-    img.src = item.filename;
+    img.src = IMAGE_BASE_URL + item.filename;
     
     // Bind arrow key control listeners
     window.addEventListener('keydown', handleGalleryKeyDown);

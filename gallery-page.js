@@ -1,3 +1,7 @@
+// Base URL for images. Set this to your CDN domain (e.g., 'https://images.wayfarerswoes.com/' or Backblaze bucket URL)
+// to host images externally. Leave empty '' to load from local repository paths.
+const IMAGE_BASE_URL = '';
+
 // State Management
 const state = {
   gallery: [],         // All DSLR items
@@ -246,7 +250,7 @@ function renderGrid() {
     card.style.transitionDelay = `${delay}s`;
     
     // Compute thumbnail image path
-    const thumbnailFilename = item.filename.replace('images/ag-edits/', 'images/ag-edits-thumbnails/');
+    const thumbnailFilename = IMAGE_BASE_URL + item.filename.replace('images/ag-edits/', 'images/ag-edits-thumbnails/');
     
     card.innerHTML = `
       <div class="gallery-card-img-wrapper" onclick="openGalleryModal(${absoluteIndex})">
@@ -294,7 +298,7 @@ function preloadFirstSet(items) {
     const img = new Image();
     img.onload = checkFinish;
     img.onerror = checkFinish;
-    img.src = item.filename.replace('images/ag-edits/', 'images/ag-edits-thumbnails/');
+    img.src = IMAGE_BASE_URL + item.filename.replace('images/ag-edits/', 'images/ag-edits-thumbnails/');
   });
 
   // Failsafe backup timeout of 2 seconds
@@ -490,7 +494,7 @@ function openGalleryModal(index) {
       loadFallbackExif(item);
     };
     
-    img.src = item.filename;
+    img.src = IMAGE_BASE_URL + item.filename;
     window.addEventListener('keydown', handleGalleryKeyDown);
   } catch (err) {
     console.error('Error opening lightbox:', err);
