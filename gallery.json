@@ -2182,5 +2182,19 @@
     "iso": "1600",
     "focalLength": "6.8 mm",
     "date": "May 29, 2026"
+  },
+  {
+    "filename": "images/iphone/IMG_9457.jpg",
+    "title": "Morning Walk at Napili Bay",
+    "description": "A peaceful morning stroll along the sandy shores of Napili Bay.",
+    "location": "Napili Bay, Maui",
+    "category": "landscape",
+    "camera": "iPhone 16 Pro",
+    "lens": "iPhone 16 Pro front TrueDepth camera 2.69mm f/1.9",
+    "aperture": "f/1.9",
+    "shutterSpeed": "1/244s",
+    "iso": "40",
+    "focalLength": "2.7 mm",
+    "date": "May 30, 2026"
   }
 ]
