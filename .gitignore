@@ -1,0 +1,6 @@
+# Ignore large raw GoPro video files (gigabytes)
+images/videos/GH*.MP4
+images/videos/player_export.MP4
+
+# Ignore temporary frame extraction directory
+scratch_gopro_frames/
