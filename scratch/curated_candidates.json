@@ -440,7 +440,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition."
   },
   {
@@ -463,7 +463,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes."
   },
   {
@@ -647,7 +647,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition."
   },
   {
@@ -670,7 +670,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition."
   },
   {
@@ -739,7 +739,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes."
   },
   {
@@ -1038,7 +1038,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes."
   },
   {
@@ -1084,7 +1084,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes."
   },
   {
@@ -1107,7 +1107,7 @@
     "description": "Traversing the rugged, majestic terrains of Kinnaur on our road expedition, surrounded by giant peaks.",
     "location": "Kinnaur, Himachal Pradesh, India",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes."
   },
   {
@@ -1421,7 +1421,7 @@
     "description": "Riding down the coastal highways of Tamil Nadu on our way to the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean in Kanyakumari.",
     "location": "Kanyakumari, Tamil Nadu, India",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Riding down the coastal highways of Tamil Nadu on our way to the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean in Kanyakumari."
   },
   {
@@ -1610,7 +1610,7 @@
     "description": "Lazing around and enjoying the peaceful woodland cabin surroundings in the Great Smoky Mountains.",
     "location": "Great Smoky Mountains National Park, Tennessee, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Driving through the winding roads of the Great Smoky Mountains, watching the morning fog cling to the dense autumn valleys."
   },
   {
@@ -1771,7 +1771,7 @@
     "description": "Walking along the cliffside paths and ocean views in Newport, enjoying the crisp ocean breeze of Rhode Island.",
     "location": "Newport, Rhode Island, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Enjoying a quiet walk along the scenic Newport coastline, feeling the refreshing breeze off the Atlantic Ocean as the sun dipped low."
   },
   {
@@ -2238,7 +2238,7 @@
     "description": "Navigating the gravel forest service roads and scenic overlooks of the Ozarks on the Triumph Tiger.",
     "location": "Ozark National Forest, Arkansas, USA",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Navigating the gravel forest service roads and scenic overlooks of the Ozarks on the Triumph Tiger."
   },
   {
@@ -2756,7 +2756,7 @@
     "description": "Exploring the freezing shores of Lake Superior in Duluth, where temperatures dropped below -40\u00b0F.",
     "location": "Duluth, Lake Superior, Minnesota, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful."
   },
   {
@@ -2802,7 +2802,7 @@
     "description": "Enjoying a warm moment holding baby Evey during our Christmas family gathering in Naperville.",
     "location": "Naperville, Illinois, USA",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Enjoying a warm moment holding baby Evey during our Christmas family gathering in Naperville."
   },
   {
@@ -2902,7 +2902,7 @@
     "description": "Exploring the freezing shores of Lake Superior in Duluth, where temperatures dropped below -40\u00b0F.",
     "location": "Duluth, Lake Superior, Minnesota, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful."
   },
   {
@@ -2925,7 +2925,7 @@
     "description": "Exploring the freezing shores of Lake Superior in Duluth, where temperatures dropped below -40\u00b0F.",
     "location": "Duluth, Lake Superior, Minnesota, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful."
   },
   {
@@ -3017,7 +3017,7 @@
     "description": "Standing before the rows of white headstones at the historic military cemetery in the Presidio before starting our road trip.",
     "location": "San Francisco National Cemetery, San Francisco, California, USA",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "A solemn, quiet moment walking through the historic San Francisco National Cemetery overlooking the bay."
   },
   {
@@ -3168,7 +3168,7 @@
     "description": "Enjoying a peaceful winter weekend getaway in the snowy hills of Galena.",
     "location": "Galena, Illinois, USA",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "story": "Enjoying a peaceful winter weekend getaway in the snowy hills of Galena."
   },
   {
@@ -3234,7 +3234,7 @@
     "description": "The historic Roseman Covered Bridge, built in 1883 and famous as a key location in the novel and movie 'The Bridges of Madison County'.",
     "location": "Bridges of Madison County, Winterset, Iowa, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "country": "USA",
     "story": "One of the iconic covered bridges of Madison County, Iowa \u2014 made famous by the novel and film 'The Bridges of Madison County'.",
     "tags": [
@@ -4099,7 +4099,7 @@
     "description": "The moon begins its journey across the sun \u2014 an early partial phase of the total solar eclipse on April 8, 2024, captured from Findlay, Ohio. Shot through a solar filter at 300mm, the sun's disk shows just a subtle lunar bite as totality was still over an hour away. Findlay was within the path of totality, experiencing 100% coverage.",
     "location": "Findlay, Ohio, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "The moon begins its journey across the sun \u2014 an early partial phase of the total solar eclipse on April 8, 2024, captured from Findlay, Ohio. Shot through a solar filter at 300mm, the sun's disk shows just a subtle lunar bite as totality was still over an hour away. Findlay was within the path of totality, experiencing 100% coverage."
   },
   {
@@ -4122,7 +4122,7 @@
     "description": "The moon carves a deep crescent into the sun during the partial phase of the total solar eclipse on April 8, 2024, shot from Findlay, Ohio. At 300mm and f/32, the dramatic golden corona glows around the moon's silhouette as totality approaches. Findlay lay in the heart of the path of totality.",
     "location": "Findlay, Ohio, USA",
     "category": "landscape",
-    "status": "approve",
+    "status": "reject",
     "story": "The moon carves a deep crescent into the sun during the partial phase of the total solar eclipse on April 8, 2024, shot from Findlay, Ohio. At 300mm and f/32, the dramatic golden corona glows around the moon's silhouette as totality approaches. Findlay lay in the heart of the path of totality."
   },
   {
@@ -4738,7 +4738,7 @@
     "description": "A lovely outdoor portrait from a portfolio session featuring Ankita in Naperville, Illinois.",
     "location": "Naperville, Illinois, USA",
     "category": "portrait",
-    "status": "approve",
+    "status": "reject",
     "country": "USA",
     "story": "Portrait portfolio session with Ankita in Naperville, IL.",
     "tags": [
@@ -8432,7 +8432,7 @@
       "Tennessee",
       "national park"
     ],
-    "status": "approve"
+    "status": "reject"
   },
   {
     "cand_id": "CAND_335",
