@@ -1,0 +1,2221 @@
+[
+  {
+    "cand_id": "CAND_002",
+    "title": "Day 1: Royal Enfield Desert Storm",
+    "description": "Gearing up for Day 1 of the epic motorcycle ride from Trivandrum all the way to Agumbe. The Royal Enfield Desert Storm felt ready for the miles ahead.",
+    "location": "Trivandrum, Kerala, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_004",
+    "title": "Sunset over the Ganges",
+    "description": "A sunset to remember in Varanasi by the Ganges, just before the evening Ganga Aarti ceremony.",
+    "location": "Ganges River, Varanasi, Uttar Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_006",
+    "title": "Manji \u2014 The Mountain Man",
+    "description": "Shot on the Dashrath Manjhi Path \u2014 named after the legendary \"Mountain Man\" who single-handedly carved a road through a mountain over 22 years.",
+    "location": "Gehlaur Hills, Gaya, Bihar, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_008",
+    "title": "Candid Portrait near Nalanda",
+    "description": "A child near the ancient ruins of Nalanda University, Bihar \u2014 one of the greatest centres of learning in the ancient world.",
+    "location": "Nalanda University Ruins, Bihar, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_010",
+    "title": "Evening Ganga Aarti in Varanasi",
+    "description": "The magnificent Ganga Aarti at Dashashwamedh Ghat, Varanasi \u2014 one of the most spiritually powerful ceremonies in India, performed each evening as the sun sets over the Ganges.",
+    "location": "Dashashwamedh Ghat, Varanasi, Uttar Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_011",
+    "title": "Fire Rituals of Varanasi",
+    "description": "The Ganga Aarti at Dashashwamedh Ghat, Varanasi \u2014 fire, chanting, and devotion at the holiest of ghats.",
+    "location": "Dashashwamedh Ghat, Varanasi, Uttar Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_012",
+    "title": "Rough Times Ahead",
+    "description": "Rough times ahead on the way to Illickal Kallu \u2014 the steep winding roads of Kerala's Western Ghats before reaching the famous rock.",
+    "location": "Illickal Kallu, Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_013",
+    "title": "The Day I Thought \u2014 This Is It!!",
+    "description": "On the way back from Illickal Kallu. Fun and scary story \u2014 while trying to take this picture, I had my riding gloves removed and hand on the phone. But due to the steepness of the road, my bike (ignition off, key in off position) jumped gear and automatically started rolling down the hill with me on it \u2014 without a free hand to stop it. In panic, I immediately freed my left hand from the gloves I was holding, but the left hand handles the clutch \u2014 so no use. After rolling down for a few meters, I was finally able to free my right hand and pull the brakes. This is one of the days I thought... This is it!!",
+    "location": "Illickal Kallu, Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_014",
+    "title": "One of the Usual Rides",
+    "description": "From one of the usual rides through Kerala.",
+    "location": "Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_015",
+    "title": "A Quiet Break at Alleppey",
+    "description": "On the return back at Alleppey \u2014 just taking a break by the backwaters.",
+    "location": "Alleppey (Alappuzha), Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_017",
+    "title": "Just Another Saturday Morning",
+    "description": "My bike back from India \u2014 just another Saturday morning in Naperville.",
+    "location": "Naperville, Illinois, USA",
+    "category": "other"
+  },
+  {
+    "cand_id": "CAND_018",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_019",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_020",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Our trusted driver from Delhi who took us all the way to Spiti Valley and beyond \u2014 a journey through some of the world's highest roads.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_021",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_022",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_023",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_024",
+    "title": "Breakfast with a View in Chitkul",
+    "description": "Waking up to this breathtaking view in Chitkul, the last inhabited village near the border. Hot chai and snow-capped peaks made for the perfect morning.",
+    "location": "Chitkul, Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_025",
+    "title": "Charang Monastery (Rangrik Shungma)",
+    "description": "The quiet serenity of the ancient Rangrik Shungma temple in Charang. There is a deep, timeless spiritual energy that fills this high-altitude valley.",
+    "location": "Charang, Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_026",
+    "title": "Spiti Valley Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Spiti Valley during our high-altitude Himalayan expedition.",
+    "location": "Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_027",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_028",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_029",
+    "title": "Hike to Dhankar Lake",
+    "description": "The challenging hike up to Dhankar Lake was grueling at high altitude, but standing by the calm waters surrounded by barren peaks made every step worth it.",
+    "location": "Dhankar Lake Trail, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_030",
+    "title": "Dhankar Lake Summit",
+    "description": "The challenging hike up to Dhankar Lake was grueling at high altitude, but standing by the calm waters surrounded by barren peaks made every step worth it.",
+    "location": "Dhankar Lake, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_031",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_032",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_033",
+    "title": "High-Altitude Trekking in Spiti",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Spiti Valley, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_034",
+    "title": "Unpaved Roads of Spiti",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Spiti Valley during our high-altitude Himalayan expedition.",
+    "location": "Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_035",
+    "title": "Trekking near Chandratal",
+    "description": "Reaching the mystical Chandratal Lake (the Lake of the Moon) after trekking through Spiti's rugged terrain. The water's deep blue hue was mesmerising.",
+    "location": "Chandratal Lake Trail, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_036",
+    "title": "First Sight of Snow at Kunzum Pass",
+    "description": "Crossing the mighty Kunzum Pass at 15,000 feet, where colorful prayer flags flutter wildly against the backdrop of massive glaciers.",
+    "location": "Kunzum Pass, Spiti Valley, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_037",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_038",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_039",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_040",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_041",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_042",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_043",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_044",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_045",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_046",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_047",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_049",
+    "title": "Shores of Trivandrum",
+    "description": "By the shores of Trivandrum \u2014 the capital city of Kerala, where the Arabian Sea meets the land.",
+    "location": "Trivandrum (Thiruvananthapuram), Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_050",
+    "title": "Plane Spotting at TVM",
+    "description": "Plane spotting near Trivandrum International Airport (TVM) \u2014 watching aircraft come and go from one of Kerala's busiest airports.",
+    "location": "Trivandrum International Airport, Thiruvananthapuram, Kerala, India",
+    "category": "other"
+  },
+  {
+    "cand_id": "CAND_052",
+    "title": "Chittranjan",
+    "description": "A portrait of my friend Chittranjan in Trivandrum, Kerala.",
+    "location": "Trivandrum (Thiruvananthapuram), Kerala, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_053",
+    "title": "Sreekanth in Thekkady",
+    "description": "A candid portrait of my friend Sreekanth in Thekkady, Kumily \u2014 the gateway to Periyar National Park.",
+    "location": "Thekkady, Kumily, Kerala, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_055",
+    "title": "Trekking in Periyar National Park",
+    "description": "Trek through Periyar National Park, Thekkady Kumily \u2014 one of India's premier tiger reserves.",
+    "location": "Periyar National Park, Thekkady, Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_056",
+    "title": "Periyar Wilderness Exploration",
+    "description": "Trek through Periyar National Park, Thekkady Kumily \u2014 one of India's premier tiger reserves.",
+    "location": "Periyar National Park, Thekkady, Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_057",
+    "title": "Kanyakumari Bike Trip",
+    "description": "Bike trip to Kanyakumari \u2014 the southernmost tip of mainland India \u2014 with roommates.",
+    "location": "Kanyakumari, Tamil Nadu, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_058",
+    "title": "Southern Peninsula Coastal Ride",
+    "description": "Riding down the coastal highways of Tamil Nadu on our way to the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean in Kanyakumari.",
+    "location": "Kanyakumari, Tamil Nadu, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_059",
+    "title": "Window Seat Views above the Clouds",
+    "description": "Shot from the window seat on the flight from Chennai to Chicago.",
+    "location": "In-flight, Chennai to Chicago",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_062",
+    "title": "Strolling around Lake Geneva",
+    "description": "Enjoying a tranquil late winter getaway to the beautiful shoreline of Lake Geneva, a historic resort town in Wisconsin.",
+    "location": "Lake Geneva, Wisconsin, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_063",
+    "title": "Scenic Views of Lake Geneva",
+    "description": "Capturing the peaceful and quiet landscapes of Lake Geneva during a crisp, scenic late winter stroll.",
+    "location": "Lake Geneva, Wisconsin, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_064",
+    "title": "Harley-Davidson Museum Visit",
+    "description": "Visiting the famous Harley-Davidson Museum in Milwaukee, exploring the history, engineering, and culture of these iconic American motorcycles.",
+    "location": "Harley-Davidson Museum, Milwaukee, Wisconsin, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_065",
+    "title": "Milwaukee & Motorcycle Heritage",
+    "description": "Admiring the classic designs, historic vintage bikes, and interactive exhibits at the Harley-Davidson Museum.",
+    "location": "Harley-Davidson Museum, Milwaukee, Wisconsin, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_066",
+    "title": "Great Smoky Mountains Escape",
+    "description": "Driving through the winding roads of the Great Smoky Mountains, watching the morning fog cling to the dense autumn valleys.",
+    "location": "Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_067",
+    "title": "Smoky Mountains Airbnb",
+    "description": "Driving through the winding roads of the Great Smoky Mountains, watching the morning fog cling to the dense autumn valleys.",
+    "location": "Gatlinburg, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_068",
+    "title": "Trekking Charlies Bunion",
+    "description": "Standing on the exposed rock face of Charlies Bunion along the Appalachian Trail, surrounded by the signature blue mist of the Smokies.",
+    "location": "Charlies Bunion Trail, Great Smoky Mountains, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_069",
+    "title": "Charlies Bunion Summit",
+    "description": "Standing on the exposed rock face of Charlies Bunion along the Appalachian Trail, surrounded by the signature blue mist of the Smokies.",
+    "location": "Charlies Bunion, Great Smoky Mountains, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_070",
+    "title": "Evie's First Photoshoot",
+    "description": "A beautiful, heartwarming baby photoshoot of Evie shortly after she was born.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_071",
+    "title": "Conquering the Tail of the Dragon",
+    "description": "Driving the legendary, winding Tail of the Dragon highway (US 129) with its 318 curves in 11 miles.",
+    "location": "Tail of the Dragon, Deal's Gap, North Carolina, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_072",
+    "title": "Rhode Island Coastal Views",
+    "description": "Enjoying a quiet walk along the scenic Newport coastline, feeling the refreshing breeze off the Atlantic Ocean as the sun dipped low.",
+    "location": "Rhode Island, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_073",
+    "title": "Newport Coastline Walk",
+    "description": "Enjoying a quiet walk along the scenic Newport coastline, feeling the refreshing breeze off the Atlantic Ocean as the sun dipped low.",
+    "location": "Newport, Rhode Island, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_074",
+    "title": "Devil's Lake State Park Hike",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_075",
+    "title": "Devil's Lake Scenic Overlook",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_076",
+    "title": "Hiking the East Bluff Trail",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_077",
+    "title": "Devil's Lake East Bluff Vistas",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_079",
+    "title": "Fair on the Way Back from Tulip Festival",
+    "description": "On our way back from the Holland Tulip Festival in Michigan, we stumbled upon a lively local fair \u2014 a perfect end to a colorful day.",
+    "location": "Holland, Michigan, USA",
+    "category": "street"
+  },
+  {
+    "cand_id": "CAND_080",
+    "title": "Mosquito Falls Trail",
+    "description": "Hiking through the dense forest of the Upper Peninsula to find the peaceful, hidden cascade of Mosquito Falls.",
+    "location": "Mosquito Falls, Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_081",
+    "title": "Kayaking on Lake Superior",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Lake Superior, Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_082",
+    "title": "Pictured Rocks Kayak Expedition",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Lake Superior, Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_083",
+    "title": "Navigating Sea Caves in Lake Superior",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Lake Superior, Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_084",
+    "title": "Monroe Balloon Festival Launch",
+    "description": "Watching colorful hot air balloons inflate and drift gracefully over the green hills of Monroe during the summer festival.",
+    "location": "Monroe, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_085",
+    "title": "Balloons over Monroe",
+    "description": "Watching colorful hot air balloons inflate and drift gracefully over the green hills of Monroe during the summer festival.",
+    "location": "Monroe, Wisconsin, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_086",
+    "title": "San Francisco Skyline",
+    "description": "Exploring the vibrant streets and hills of San Francisco, capturing the unique architecture and dynamic energy of the city.",
+    "location": "San Francisco, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_087",
+    "title": "Mom's Visit to San Francisco",
+    "description": "Exploring the vibrant streets and hills of San Francisco, capturing the unique architecture and dynamic energy of the city.",
+    "location": "San Francisco, California, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_088",
+    "title": "Golden Gate Bridge Vista",
+    "description": "Catching the golden hour light hitting the iconic spans of the Golden Gate Bridge, with a blanket of fog rolling in from the bay.",
+    "location": "Golden Gate Bridge, San Francisco, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_089",
+    "title": "Exploring the Bay Area",
+    "description": "Exploring the vibrant streets and hills of San Francisco, capturing the unique architecture and dynamic energy of the city.",
+    "location": "San Francisco, California, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_090",
+    "title": "Sunset from the Cabin Window",
+    "description": "Exploring the vibrant streets and hills of San Francisco, capturing the unique architecture and dynamic energy of the city.",
+    "location": "In-flight, San Francisco to Chicago",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_091",
+    "title": "Flight Views over SFO",
+    "description": "Exploring the vibrant streets and hills of San Francisco, capturing the unique architecture and dynamic energy of the city.",
+    "location": "In-flight, San Francisco to Chicago",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_092",
+    "title": "Triumph Tiger in the Ozarks",
+    "description": "Riding my Triumph Tiger motorcycle through the winding mountain roads of the Ozark National Forest on the way to White Rock Mountain.",
+    "location": "Ozark National Forest, Arkansas, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_093",
+    "title": "Ozark Scenic Riding Trails",
+    "description": "Navigating the gravel forest service roads and scenic overlooks of the Ozarks on the Triumph Tiger.",
+    "location": "Ozark National Forest, Arkansas, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_094",
+    "title": "White Rock Mountain Summit",
+    "description": "Reaching the spectacular, isolated summit of White Rock Mountain, enjoying panoramic views of the surrounding hills.",
+    "location": "White Rock Mountain, Arkansas, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_095",
+    "title": "Sunset at White Rock Mountain",
+    "description": "A quiet, peaceful sunset casting warm orange hues over the endless forest valleys of the Ozarks from White Rock Mountain.",
+    "location": "White Rock Mountain, Arkansas, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_096",
+    "title": "Stockyards Station, Fort Worth",
+    "description": "At the historic Stockyards Station in Fort Worth, TX \u2014 the heart of the legendary cattle trade and cowboy culture of the American Southwest.",
+    "location": "Stockyards Station, Fort Worth, Texas, USA",
+    "category": "street"
+  },
+  {
+    "cand_id": "CAND_100",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_101",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_102",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_103",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_104",
+    "title": "On the Way to Mount Rushmore",
+    "description": "Scenic shot on the road trip heading toward Mount Rushmore, South Dakota.",
+    "location": "On the way to Mount Rushmore, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_105",
+    "title": "Devils Tower Monument",
+    "description": "Devils Tower \u2014 the iconic 867-foot volcanic rock monolith and America's first national monument, in Wyoming.",
+    "location": "Devils Tower National Monument, Wyoming, USA",
+    "category": "landmark"
+  },
+  {
+    "cand_id": "CAND_106",
+    "title": "Camping with the Jeep Cherokee",
+    "description": "Setting up camp next to my new Jeep Cherokee at Chain O' Lakes State Park, my first road and camping trip after purchasing the vehicle.",
+    "location": "Chain O' Lakes State Park, McHenry County, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_107",
+    "title": "Kayaking on the Chain O' Lakes",
+    "description": "Kayaking along the shores of the Chain O' Lakes, enjoying a clear, sunny autumn afternoon on the water with residential cottages lining the shore.",
+    "location": "Chain O' Lakes State Park, McHenry County, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_108",
+    "title": "Scenic Winding Route",
+    "description": "A scenic, winding stretch of US-131 lined with gold and green trees under an overcast sky.",
+    "location": "US-131, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_109",
+    "title": "Autumn Colors on US-131",
+    "description": "Driving through a corridor of vibrant fall colors along Highway US-131 during an autumn road trip in Michigan.",
+    "location": "US-131, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_112",
+    "title": "Drive to Starved Rock",
+    "description": "Hike through Starved Rock State Park \u2014 Illinois' most-visited park with stunning canyon formations and waterfalls.",
+    "location": "Starved Rock State Park, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_113",
+    "title": "French Canyon in Winter",
+    "description": "Hike through Starved Rock State Park \u2014 Illinois' most-visited park with stunning canyon formations and waterfalls.",
+    "location": "Starved Rock State Park, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_114",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_115",
+    "title": "Snowy Day in Naperville",
+    "description": "A beautiful winter landscape in Naperville on a snowy day after Evey was born. (From left: Remya, Evey, and Gigin.).",
+    "location": "Naperville, Illinois",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_116",
+    "title": "Holding Baby Evey on Christmas",
+    "description": "Enjoying a warm moment holding baby Evey during our Christmas family gathering in Naperville.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_117",
+    "title": "Evey's First Christmas",
+    "description": "Christmas party celebration in Naperville, IL.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_118",
+    "title": "Lake Superior Sea Smoke",
+    "description": "Stepping out onto the shore to witness sea smoke rising from the freezing waters of Lake Superior\u2014a magical sight on a morning that dipped below -30\u00b0F.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_119",
+    "title": "Canal Park Ice Formations",
+    "description": "The pier at Canal Park was completely encased in thick, glassy sheets of ice, sculpted by the freezing lake spray and relentless winds.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_120",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_121",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_122",
+    "title": "Golden Gate Bridge at Sunset",
+    "description": "Catching the golden hour light hitting the iconic spans of the Golden Gate Bridge, with a blanket of fog rolling in from the bay.",
+    "location": "Golden Gate Bridge, San Francisco, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_123",
+    "title": "Sunset Over Golden Gate and Skyline",
+    "description": "Catching the golden hour light hitting the iconic spans of the Golden Gate Bridge, with a blanket of fog rolling in from the bay.",
+    "location": "Golden Gate Bridge, San Francisco, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_124",
+    "title": "Wild Mustard Fields on Highway 1",
+    "description": "Cruising along the cliffside curves of Highway 1, looking down at the wild Pacific waves crashing against the rocky shores of Big Sur.",
+    "location": "Highway 1, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_125",
+    "title": "Presidio National Cemetery",
+    "description": "A solemn, quiet moment walking through the historic San Francisco National Cemetery overlooking the bay.",
+    "location": "San Francisco National Cemetery, San Francisco, California, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_126",
+    "title": "Cozy Evening at Home",
+    "description": "A warm and quiet evening at home in Naperville, with Christmas lights hanging over the blinds and a movie on TV.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_127",
+    "title": "Winter Walk at Blackwell Forest",
+    "description": "Blackwell Forest Preserve near Warrenville, IL \u2014 a beautiful DuPage County forest preserve with a lake.",
+    "location": "Blackwell Forest Preserve, Warrenville, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_130",
+    "title": "Winter Day in Galena",
+    "description": "Galena \u2014 the charming historic town in northwestern Illinois, well-preserved 19th-century architecture.",
+    "location": "Galena, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_131",
+    "title": "Galena Snowy Getaway",
+    "description": "Enjoying a peaceful winter weekend getaway in the snowy hills of Galena.",
+    "location": "Galena, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_134",
+    "title": "Roseman Covered Bridge",
+    "description": "One of the iconic covered bridges of Madison County, Iowa \u2014 made famous by the novel and film 'The Bridges of Madison County'.",
+    "location": "Bridges of Madison County, Winterset, Iowa, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_135",
+    "title": "Pratheesh at Roseman Bridge",
+    "description": "Portrait of Pratheesh at the Bridges of Madison County, Iowa.",
+    "location": "Bridges of Madison County, Winterset, Iowa, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_136",
+    "title": "High Trestle Trail Bridge",
+    "description": "Standing on the iconic High Trestle Trail Bridge over the Des Moines River valley during our Iowa road trip.",
+    "location": "High Trestle Trail Bridge, Madrid, Iowa, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_141",
+    "title": "Sumit and Baby Sia",
+    "description": "Sia's baby photoshoot \u2014 featuring Sumit and Sia.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_142",
+    "title": "A Father's Kiss",
+    "description": "Sia's baby photoshoot \u2014 featuring Sumit and Sia.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_143",
+    "title": "Sunset at Badlands",
+    "description": "Starting leg of an epic Tesla road trip: Badlands \u2192 Wyoming \u2192 Seattle \u2192 Highway 101/CA-1 \u2192 Las Vegas \u2192 Denver \u2192 home.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_144",
+    "title": "Badlands Ridge Sunset",
+    "description": "Badlands National Park, South Dakota \u2014 part of the epic Tesla road trip through Wyoming, Seattle, CA-1, Vegas, and Denver.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_145",
+    "title": "Bighorn Mountains from Sheridan",
+    "description": "Morning in Sheridan, WY \u2014 an overnight stop during the epic Tesla road trip west.",
+    "location": "Sheridan, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_146",
+    "title": "Entering Idaho on I-90",
+    "description": "Entering Idaho on I-90 during the epic Tesla road trip west toward Seattle.",
+    "location": "Idaho/Montana border, Interstate 90, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_147",
+    "title": "Hoh River Walk",
+    "description": "Olympic National Park near Seattle \u2014 part of the Tesla road trip leg through the Pacific Northwest.",
+    "location": "Olympic National Park, Washington, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_148",
+    "title": "Glasshouse at Chihuly Garden",
+    "description": "The serene Japanese Garden at Washington Park Arboretum in Seattle.",
+    "location": "Japanese Garden, Washington Park Arboretum, Seattle, Washington, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_149",
+    "title": "Space Needle Reflection in Glass Float",
+    "description": "A beautiful reflection of the Seattle Space Needle \u2014 captured near Seattle Center.",
+    "location": "Seattle Center, Seattle, Washington, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_150",
+    "title": "Sea Stacks in the Pacific Mist",
+    "description": "Towering sea stacks rising from the pounding ocean waves, shrouded in coastal mist and temperate forest outlines.",
+    "location": "Oregon Coast, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_151",
+    "title": "Sea Stacks in the Pacific Mist",
+    "description": "Towering sea stacks rising from the pounding ocean waves, shrouded in coastal mist and temperate forest outlines.",
+    "location": "Oregon Coast, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_152",
+    "title": "Shweta at Vista House",
+    "description": "A scenic portrait of Shweta at the historic Vista House at Crown Point, overlooking the Columbia River Gorge in Oregon.",
+    "location": "Vista House, Crown Point, Oregon",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_153",
+    "title": "Columbia River Gorge from Crown Point",
+    "description": "The dramatic, sweeping cliffs and winding waters of the Columbia River Gorge as seen from Vista House in Oregon.",
+    "location": "Vista House, Crown Point, Oregon",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_154",
+    "title": "California Street Cable Car",
+    "description": "Exploring the vibrant streets and hills of San Francisco, capturing the unique architecture and dynamic energy of the city.",
+    "location": "San Francisco, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_155",
+    "title": "Ocean Twilight Overlook",
+    "description": "Cruising along the cliffside curves of Highway 1, looking down at the wild Pacific waves crashing against the rocky shores of Big Sur.",
+    "location": "Highway 1, California, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_156",
+    "title": "Tesla Model 3 in Big Sur",
+    "description": "Cruising along the cliffside curves of Highway 1, looking down at the wild Pacific waves crashing against the rocky shores of Big Sur.",
+    "location": "Big Sur, Highway 1, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_157",
+    "title": "Looking Out Over Big Sur",
+    "description": "Cruising along the cliffside curves of Highway 1, looking down at the wild Pacific waves crashing against the rocky shores of Big Sur.",
+    "location": "Big Sur, Highway 1, California, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_162",
+    "title": "Perseids Meteor Shower at Green River",
+    "description": "Astrophotography at Green River State Wildlife Management Area \u2014 the closest dark sky site to Aurora, IL. Shot during the Perseid Meteor Shower.",
+    "location": "Green River State Wildlife Management Area, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_163",
+    "title": "Stargazing and Chasing Meteors",
+    "description": "Astrophotography at Green River State Wildlife Management Area \u2014 the closest dark sky site to Aurora, IL. Shot during the Perseid Meteor Shower.",
+    "location": "Green River State Wildlife Management Area, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_165",
+    "title": "World's Largest Buffalo Monument",
+    "description": "The World's Largest Buffalo monument in Jamestown, ND \u2014 a 26-ton concrete statue standing 46 feet tall.",
+    "location": "Jamestown, North Dakota, USA",
+    "category": "landmark"
+  },
+  {
+    "cand_id": "CAND_167",
+    "title": "Total Solar Eclipse \u2014 First Contact",
+    "description": "The moon begins its journey across the sun \u2014 an early partial phase of the total solar eclipse on April 8, 2024, captured from Findlay, Ohio. Shot through a solar filter at 300mm, the sun's disk shows just a subtle lunar bite as totality was still over an hour away. Findlay was within the path of totality, experiencing 100% coverage.",
+    "location": "Findlay, Ohio, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_168",
+    "title": "Total Solar Eclipse \u2014 Deep Partial Phase",
+    "description": "The moon carves a deep crescent into the sun during the partial phase of the total solar eclipse on April 8, 2024, shot from Findlay, Ohio. At 300mm and f/32, the dramatic golden corona glows around the moon's silhouette as totality approaches. Findlay lay in the heart of the path of totality.",
+    "location": "Findlay, Ohio, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_169",
+    "title": "Total Solar Eclipse Collage",
+    "description": "Solar eclipse viewing at Findlay, Ohio \u2014 in the path of totality.",
+    "location": "Findlay, Ohio, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_177",
+    "title": "Hiking Starved Rock State Park",
+    "description": "Starved Rock State Park, Illinois \u2014 canyon trails and waterfalls.",
+    "location": "Starved Rock State Park, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_182",
+    "title": "Yosemite National Park",
+    "description": "Yosemite National Park \u2014 part of the epic Tesla road trip through California.",
+    "location": "Yosemite National Park, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_183",
+    "title": "Exploring Yosemite Valley",
+    "description": "Yosemite National Park \u2014 part of the epic Tesla road trip through California.",
+    "location": "Yosemite National Park, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_187",
+    "title": "Yosemite Valley Landscape",
+    "description": "Yosemite National Park \u2014 part of the epic Tesla road trip through California.",
+    "location": "Yosemite National Park, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_188",
+    "title": "Yosemite Starry Night",
+    "description": "Yosemite National Park \u2014 part of the epic Tesla road trip through California.",
+    "location": "Yosemite National Park, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_189",
+    "title": "Lake Tahoe Scenic View",
+    "description": "Taking in the incredible clarity of Lake Tahoe, surrounded by towering pine trees and snow-capped Sierra Nevada peaks.",
+    "location": "Lake Tahoe, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_190",
+    "title": "Sailing on Lake Tahoe",
+    "description": "Taking in the incredible clarity of Lake Tahoe, surrounded by towering pine trees and snow-capped Sierra Nevada peaks.",
+    "location": "Lake Tahoe, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_194",
+    "title": "Portrait of Ankita",
+    "description": "Portrait portfolio session with Ankita in Naperville, IL.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_195",
+    "title": "Prairie Dog at Roadside Stop",
+    "description": "A detailed close-up shot of a black-tailed prairie dog standing alert in the grass near a highway gas stop on the way to Yellowstone.",
+    "location": "Cactus Flat, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_196",
+    "title": "Curious Prairie Dog",
+    "description": "Another close-up of a curious prairie dog holding a piece of grass, photographed at a roadside stop on the way to Yellowstone.",
+    "location": "Cactus Flat, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_197",
+    "title": "Bull Elk at Mammoth Hot Springs",
+    "description": "Walking along the wooden boardwalks of Mammoth Hot Springs, marveling at the colorful geothermal terraces sculpted by active springs.",
+    "location": "Mammoth Hot Springs, Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_198",
+    "title": "Coyote in the Valley",
+    "description": "Exploring the surreal geothermal landscapes of Yellowstone, where steam rises from deep vents and colorful pools dot the caldera floor.",
+    "location": "Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_199",
+    "title": "Steaming Geothermal Pool",
+    "description": "Exploring the surreal geothermal landscapes of Yellowstone, where steam rises from deep vents and colorful pools dot the caldera floor.",
+    "location": "Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_200",
+    "title": "Yellowstone Geothermal Features",
+    "description": "Exploring the surreal geothermal landscapes of Yellowstone, where steam rises from deep vents and colorful pools dot the caldera floor.",
+    "location": "Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_201",
+    "title": "Mammoth Hot Springs Terraces",
+    "description": "Walking along the wooden boardwalks of Mammoth Hot Springs, marveling at the colorful geothermal terraces sculpted by active springs.",
+    "location": "Mammoth Hot Springs, Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_202",
+    "title": "Yellowstone Thermal Springs",
+    "description": "Exploring the surreal geothermal landscapes of Yellowstone, where steam rises from deep vents and colorful pools dot the caldera floor.",
+    "location": "Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_203",
+    "title": "Vibrant Hot Spring",
+    "description": "Exploring the surreal geothermal landscapes of Yellowstone, where steam rises from deep vents and colorful pools dot the caldera floor.",
+    "location": "Yellowstone National Park, Wyoming, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_204",
+    "title": "Sunset at Brenton Point",
+    "description": "Brenton Point State Park in Newport, Rhode Island \u2014 a scenic ocean-side park with sweeping Atlantic views.",
+    "location": "Brenton Point State Park, Newport, Rhode Island, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_205",
+    "title": "Tesla Sunset at Brenton Point",
+    "description": "Enjoying a quiet walk along the scenic Newport coastline, feeling the refreshing breeze off the Atlantic Ocean as the sun dipped low.",
+    "location": "Brenton Point State Park, Newport, Rhode Island, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_206",
+    "title": "Anil at Stonington Point",
+    "description": "Stonington Point, Connecticut \u2014 part of the New England road trip.",
+    "location": "Stonington Point, Stonington, Connecticut, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_207",
+    "title": "Ankita at Stonington Point",
+    "description": "Stonington Point, Connecticut \u2014 part of the New England road trip.",
+    "location": "Stonington Point, Stonington, Connecticut, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_208",
+    "title": "Winter at Franconia Notch State Park",
+    "description": "A beautiful winter scene showing a snow-covered bridge surrounded by frosted trees in Franconia Notch State Park, New Hampshire.",
+    "location": "Franconia Notch State Park, New Hampshire, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_209",
+    "title": "Cannon Mountain Ski Slopes",
+    "description": "A view of the ski slopes and chairlifts on Cannon Mountain in Franconia Notch State Park on a clear, sunny winter day.",
+    "location": "Franconia Notch State Park, New Hampshire, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_212",
+    "title": "Bug Light Lighthouse",
+    "description": "A serene winter coastal walk by Bug Light, watching the cold waves lap against the rocky New England shoreline.",
+    "location": "Bug Light, South Portland, Maine, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_213",
+    "title": "Portland Breakwater Light (Bug Light)",
+    "description": "A serene winter coastal walk by Bug Light, watching the cold waves lap against the rocky New England shoreline.",
+    "location": "Bug Light, South Portland, Maine, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_214",
+    "title": "Lobster Point Lighthouse",
+    "description": "A serene winter coastal walk by Lobster Point Lighthouse, watching the cold waves lap against the rocky New England shoreline.",
+    "location": "Lobster Point Lighthouse, Ogunquit, Maine, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_216",
+    "title": "Descending the Stone Stairs at Bell Smith Springs",
+    "description": "A view of the historic Civilian Conservation Corps stone staircase leading down into the canyon at Bell Smith Springs Recreation Area.",
+    "location": "Bell Smith Springs Recreation Area, Shawnee National Forest, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_217",
+    "title": "White Trail Signboard",
+    "description": "A wooden trail sign on the White Trail pointing left towards Spring and right towards Devil's Backbone rock formation in Bell Smith Springs.",
+    "location": "Bell Smith Springs Recreation Area, Shawnee National Forest, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_218",
+    "title": "Grand Canyon Sunrise",
+    "description": "A stunning view of the sunrise lighting up the Grand Canyon, captured from Mather Point.",
+    "location": "Mather Point, Grand Canyon National Park, Arizona, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_219",
+    "title": "Anil Watching the Grand Canyon Sunrise",
+    "description": "Anil standing on a rock ledge, watching the spectacular golden sunrise over the Grand Canyon alongside fellow travelers at Mather Point.",
+    "location": "Mather Point, Grand Canyon National Park, Arizona, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_220",
+    "title": "Colorado River in the Grand Canyon",
+    "description": "A breathtaking wide-angle daylight landscape showing the Colorado River winding through the deep gorges of the Grand Canyon.",
+    "location": "Grand Canyon National Park, Arizona, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_221",
+    "title": "Mandalay Bay at Night",
+    "description": "The iconic gold-tinted facade of the Mandalay Bay hotel and casino on the Las Vegas Strip, with its powerful sky beam lit up at night.",
+    "location": "Las Vegas Strip, Nevada, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_222",
+    "title": "Planet Hollywood and Paris Las Vegas",
+    "description": "A vibrant night shot on the Las Vegas Strip featuring the Planet Hollywood sign and the illuminated replica of the Eiffel Tower in the background.",
+    "location": "Las Vegas Strip, Nevada, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_223",
+    "title": "Bellagio Fountains at Night",
+    "description": "A spectacular capture of the Bellagio Fountains water show in full action against the backdrop of the illuminated Bellagio Hotel at night.",
+    "location": "Las Vegas Strip, Nevada, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_224",
+    "title": "Himalayan Stream near Charang",
+    "description": "Listening to the rush of a glacier-fed stream cutting through the rocky valley of Kinnaur under the warm sun.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_225",
+    "title": "Devil's Lake Quartzite Formations",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_226",
+    "title": "A Local Smile in Kinnaur",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_227",
+    "title": "Navigating the Cliffhanger Routes",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_228",
+    "title": "Hiking the Talus Slopes",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_229",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_230",
+    "title": "Charang Village Farmlands",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_231",
+    "title": "Ancient Rangrik Shungma Temple",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_232",
+    "title": "Exploring the Balanced Rock Path",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_233",
+    "title": "Devil's Lake East Bluff Woods",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_234",
+    "title": "Prayer Flags Fluttering in the Wind",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_235",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_236",
+    "title": "Mosquito River Crossings",
+    "description": "Standing on the rugged sandstone cliffs of Pictured Rocks, looking out over the vast, ocean-like waters of Lake Superior.",
+    "location": "Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_237",
+    "title": "Wilds of the Upper Peninsula",
+    "description": "Standing on the rugged sandstone cliffs of Pictured Rocks, looking out over the vast, ocean-like waters of Lake Superior.",
+    "location": "Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_238",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_239",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_240",
+    "title": "Sunset over Devil's Lake",
+    "description": "Hiking the rocky bluffs of Devil's Lake State Park. Climbing up the ancient quartzite boulders rewarded us with a panoramic view of the lake nestled below.",
+    "location": "Devil's Lake State Park, Baraboo, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_241",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_242",
+    "title": "Travelogue Archive - August 2018",
+    "description": "Captured during a meteor shower expedition at Green River State Wildlife Management Area.",
+    "location": "Green River State Wildlife Management Area, Kentucky",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_243",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Landscape from the Land Between the Lakes National Recreation Area, a unique peninsula between Lake Barkley and Kentucky Lake.",
+    "location": "Land Between the Lakes, Kentucky/Tennessee",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_244",
+    "title": "Travelogue Archive - December 2015",
+    "description": "Scenic landscape at Illickal Kallu (Illickal Rock), a popular trekking destination in Idukki district, Kerala.",
+    "location": "Illickal Kallu, Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_245",
+    "title": "Travelogue Archive - December 2015",
+    "description": "Scenic view at Illickal Kallu (Illickal Rock) in Kerala's Western Ghats.",
+    "location": "Illickal Kallu, Kerala, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_246",
+    "title": "Travelogue Archive - January 2016",
+    "description": "A gift from travel buddy Ranjith, commemorating all the trips done together in India.",
+    "location": "India",
+    "category": "other"
+  },
+  {
+    "cand_id": "CAND_247",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Fall foliage colors during a Michigan road trip near Harbor Springs.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_248",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Fall foliage colors during a Michigan road trip near Harbor Springs.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_249",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Fall foliage colors during a Michigan road trip near Harbor Springs.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_250",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Fall foliage colors during a Michigan road trip near Harbor Springs.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_251",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Fall foliage colors during a Michigan road trip near Harbor Springs.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_252",
+    "title": "Travelogue Archive - October 2018",
+    "description": "Fall foliage colors during a Michigan road trip near Harbor Springs.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_253",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Portrait of Shweta in Goa, India.",
+    "location": "Goa, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_257",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Evie at a Christmas celebration in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_258",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_259",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_266",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_268",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_270",
+    "title": "Travelogue Archive - April 2019",
+    "description": "Portrait of Evie in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_271",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Meeting the incredibly warm and resilient locals of the high Himalayas, whose smiles are as unforgettable as the mountain landscapes.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_272",
+    "title": "Travelogue Archive - April 2019",
+    "description": "Portrait of Evie in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_273",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "At Hikkim, home to the world's highest post office at 14,567 ft (4,440 m) above sea level.",
+    "location": "Hikkim, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_274",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "At Hikkim, home to the world's highest post office at 14,567 ft (4,440 m) above sea level.",
+    "location": "Hikkim, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_275",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "At Hikkim, home to the world's highest post office at 14,567 ft (4,440 m) above sea level.",
+    "location": "Hikkim, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_276",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "At Hikkim, home to the world's highest post office at 14,567 ft (4,440 m) above sea level.",
+    "location": "Hikkim, Spiti Valley, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_277",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "The warm host lady of our Tangzi Homestay in Langza village, Spiti Valley.",
+    "location": "Langza, Spiti Valley, Himachal Pradesh, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_278",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "A traditional village gathering in Langza \u2014 a Buddhist exorcism ceremony where the lama priest performed rituals to ward off evil spirits from a village member. The 30\u201345 minute ceremony concluded with the distribution of 'Chhang' (locally brewed barley alcohol), which the community calls 'Theertham' \u2014 reflecting the beautiful blend of Buddhist and folk traditions in Spiti.",
+    "location": "Langza, Spiti Valley, Himachal Pradesh, India",
+    "category": "street"
+  },
+  {
+    "cand_id": "CAND_279",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "A traditional village gathering in Langza \u2014 a Buddhist exorcism ceremony where the lama priest performed rituals to ward off evil spirits from a village member. The 30\u201345 minute ceremony concluded with the distribution of 'Chhang' (locally brewed barley alcohol), which the community calls 'Theertham' \u2014 reflecting the beautiful blend of Buddhist and folk traditions in Spiti.",
+    "location": "Langza, Spiti Valley, Himachal Pradesh, India",
+    "category": "street"
+  },
+  {
+    "cand_id": "CAND_280",
+    "title": "Travelogue Archive - May 2019",
+    "description": "Portrait of Naina in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_281",
+    "title": "Travelogue Archive - May 2019",
+    "description": "Portrait of Naina in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_282",
+    "title": "Travelogue Archive - May 2019",
+    "description": "Portrait of Naina in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_284",
+    "title": "Kinnaur Mountain Expedition",
+    "description": "Navigating the legendary cliffhanger roads and deep gorges of Kinnaur during our high-altitude Himalayan expedition.",
+    "location": "Kinnaur, Himachal Pradesh, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_286",
+    "title": "Paddling under Sandstone Cliffs",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Lake Superior, Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_289",
+    "title": "Midwest Hot Air Balloon Rally",
+    "description": "Watching colorful hot air balloons inflate and drift gracefully over the green hills of Monroe during the summer festival.",
+    "location": "Monroe, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_293",
+    "title": "Travelogue Archive - June 2015",
+    "description": "A moody monsoon portrait on a Royal Enfield motorcycle on the misty Valparai ghat road (TN-11 registered bike \u2014 Coimbatore), deep in the Western Ghats forest during the June 2015 bike trip.",
+    "location": "Valparai Ghat Road, Anamalai Hills, Tamil Nadu, India",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_294",
+    "title": "Travelogue Archive - June 2015",
+    "description": "Bike trip through the dramatic Valparai ghat road in the Anamalai Hills, Tamil Nadu during the 2015 monsoon.",
+    "location": "Valparai Ghat Road, Anamalai Hills, Tamil Nadu, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_295",
+    "title": "Travelogue Archive - June 2015",
+    "description": "An aerial view of the spectacular Valparai ghat road with 40 numbered hairpin bends winding down the Anamalai Hills toward the Aliyar reservoir visible in the valley below. Shot from near Loam's View Point during the June 2015 bike trip.",
+    "location": "Valparai Ghat Road (Loam's View Point), Anamalai Hills, Tamil Nadu, India",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_296",
+    "title": "Travelogue Archive - December 2020",
+    "description": "Scenes from Miami, Florida.",
+    "location": "Miami, Florida, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_297",
+    "title": "Travelogue Archive - December 2020",
+    "description": "Scenes from Miami, Florida.",
+    "location": "Miami, Florida, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_298",
+    "title": "Travelogue Archive - December 2020",
+    "description": "Scenes from Miami, Florida.",
+    "location": "Miami, Florida, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_299",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_300",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_301",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Christmas celebration in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_302",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_303",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_304",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_305",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_306",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_307",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Christmas celebration in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_308",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_310",
+    "title": "Frozen Shoreline of Lake Superior",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_311",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_312",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_313",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_314",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_315",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_316",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_317",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_318",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_319",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Duluth, Lake Superior, Minnesota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_320",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Sunset view of Chicago's western suburbs from the Skydeck at Willis Tower. The perfectly straight grid of city streets radiates to the horizon, with Lake Michigan visible to the left and snow on the ground below.",
+    "location": "Willis Tower (Skydeck), Chicago, Illinois, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_321",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Views at Navy Pier, Chicago \u2014 the iconic 3,300-foot pier on Lake Michigan.",
+    "location": "Navy Pier, Chicago, Illinois, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_322",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Views at Navy Pier, Chicago \u2014 the iconic 3,300-foot pier on Lake Michigan.",
+    "location": "Navy Pier, Chicago, Illinois, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_323",
+    "title": "Rhode Island Ocean Horizons",
+    "description": "Enjoying a quiet walk along the scenic Newport coastline, feeling the refreshing breeze off the Atlantic Ocean as the sun dipped low.",
+    "location": "Rhode Island, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_324",
+    "title": "Travelogue Archive - February 2017",
+    "description": "Scenic views along Lake Geneva, a charming resort town in southern Wisconsin.",
+    "location": "Lake Geneva, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_325",
+    "title": "Glow over the Badlands Spire",
+    "description": "An atmospheric view of Mount Rushmore from the approach highway, shrouded in soft morning mist. The four presidential faces of Washington, Jefferson, Roosevelt, and Lincoln are carved into the granite of the Black Hills.",
+    "location": "Mount Rushmore National Memorial, Keystone, South Dakota, USA",
+    "category": "landmark"
+  },
+  {
+    "cand_id": "CAND_326",
+    "title": "Travelogue Archive - June 2017",
+    "description": "Views from a boat tour of San Francisco Bay.",
+    "location": "San Francisco Bay, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_327",
+    "title": "Travelogue Archive - June 2017",
+    "description": "Views from a boat tour of San Francisco Bay.",
+    "location": "San Francisco Bay, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_328",
+    "title": "Travelogue Archive - June 2017",
+    "description": "Views from a boat tour of San Francisco Bay.",
+    "location": "San Francisco Bay, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_329",
+    "title": "Monroe Balloon Festival",
+    "description": "Watching colorful hot air balloons inflate and drift gracefully over the green hills of Monroe during the summer festival.",
+    "location": "Monroe, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_330",
+    "title": "Preparing for Lift-off in Monroe",
+    "description": "Watching colorful hot air balloons inflate and drift gracefully over the green hills of Monroe during the summer festival.",
+    "location": "Monroe, Wisconsin, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_331",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_332",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_333",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_334",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Our Airbnb cabin nestled in the Great Smoky Mountains \u2014 a cozy base for exploring the Smokies.",
+    "location": "Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_335",
+    "title": "Travelogue Archive - April 2017",
+    "description": "The legendary Tail of the Dragon \u2014 318 curves in 11 miles on US-129 at Deals Gap, one of America's most famous driving roads in the Smokies.",
+    "location": "Tail of the Dragon (US-129), Deals Gap, Tennessee/North Carolina, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_336",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_338",
+    "title": "Travelogue Archive - July 2017",
+    "description": "A scenic bike trip through White Rock Mountain in the Ozark National Forest, Arkansas.",
+    "location": "White Rock Mountain, Ozark National Forest, Arkansas, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_341",
+    "title": "Travelogue Archive - January 2017",
+    "description": "Views at Navy Pier, Chicago \u2014 the iconic 3,300-foot pier on Lake Michigan.",
+    "location": "Navy Pier, Chicago, Illinois, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_342",
+    "title": "Travelogue Archive - January 2017",
+    "description": "Views at Navy Pier, Chicago \u2014 the iconic 3,300-foot pier on Lake Michigan.",
+    "location": "Navy Pier, Chicago, Illinois, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_343",
+    "title": "Travelogue Archive - January 2017",
+    "description": "Views at Navy Pier, Chicago \u2014 the iconic 3,300-foot pier on Lake Michigan.",
+    "location": "Navy Pier, Chicago, Illinois, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_345",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Christmas celebration in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_346",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Christmas celebration in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_347",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_348",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_349",
+    "title": "Catching Football at Campground",
+    "description": "Playing catch with a football at our grassy campsite in Chain O' Lakes State Park during a weekend getaway.",
+    "location": "Chain O' Lakes State Park, McHenry County, Illinois, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_350",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_351",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_352",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_353",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_354",
+    "title": "Glow over the Badlands Spire",
+    "description": "Watching the sun go down over the rugged, layered ridges of the Badlands. The soft evening light brought out the vibrant colors of the ancient rock formations.",
+    "location": "Badlands National Park, South Dakota, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_355",
+    "title": "Sub-Zero Duluth Exploration",
+    "description": "Christmas celebration in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_356",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_357",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_358",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_359",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_360",
+    "title": "Travelogue Archive - April 2017",
+    "description": "Evie's baby photoshoot in Naperville, Illinois.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_361",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_364",
+    "title": "Lake Michigan Dune Overlook",
+    "description": "Looking down the massive sand dune slope of the Lake Michigan Overlook on Pierce Stocking Scenic Drive, watching waves lap the beach below.",
+    "location": "Sleeping Bear Dunes National Lakeshore, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_365",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_366",
+    "title": "Travelogue Archive - March 2017",
+    "description": "Views from the Charlie's Bunion hike along the Appalachian Trail in Great Smoky Mountains National Park.",
+    "location": "Charlie's Bunion, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_367",
+    "title": "Jeep on Pierce Stocking Scenic Drive",
+    "description": "Cruising the winding forest road of Pierce Stocking Scenic Drive in the Jeep Cherokee, surrounded by late-autumn foliage.",
+    "location": "Sleeping Bear Dunes National Lakeshore, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_368",
+    "title": "Resting in the Sea Caves",
+    "description": "Exploring the freezing shores of Lake Superior in winter. The cold was biting and intense, but the serene ice formations were absolutely beautiful.",
+    "location": "Lake Superior, Pictured Rocks National Lakeshore, Upper Peninsula, Michigan, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_369",
+    "title": "Panther Beach Sea Arch",
+    "description": "Waves washing onto the sandy shore of Panther Beach, featuring the famous natural rock sea arch.",
+    "location": "Panther Beach, Santa Cruz, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_370",
+    "title": "Davenport Rocky Shoreline",
+    "description": "Ocean waves crashing over tide pools and rocky shelf along the rugged Central California coast.",
+    "location": "Davenport, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_371",
+    "title": "Big Sur Rugged Coastline",
+    "description": "Cruising along the cliffside curves of Highway 1, looking down at the wild Pacific waves crashing against the rocky shores of Big Sur.",
+    "location": "Big Sur, California, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_372",
+    "title": "Travelogue Archive - July 2018",
+    "description": "The iconic Las Vegas Strip \u2014 the heart of entertainment and neon lights.",
+    "location": "Las Vegas Strip, Las Vegas, Nevada, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_373",
+    "title": "Travelogue Archive - March 2018",
+    "description": "The scenic 11-mile Cades Cove loop drive in Great Smoky Mountains National Park \u2014 a valley with historic homesteads and abundant wildlife.",
+    "location": "Cades Cove, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_374",
+    "title": "Travelogue Archive - March 2018",
+    "description": "The scenic 11-mile Cades Cove loop drive in Great Smoky Mountains National Park \u2014 a valley with historic homesteads and abundant wildlife.",
+    "location": "Cades Cove, Great Smoky Mountains National Park, Tennessee, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_375",
+    "title": "Travelogue Archive - August 2018",
+    "description": "Captured during a meteor shower expedition at Green River State Wildlife Management Area.",
+    "location": "Green River State Wildlife Management Area, Kentucky",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_376",
+    "title": "Travelogue Archive - July 2018",
+    "description": "A sweeping panoramic view of the Grand Canyon \u2014 one of Earth's most awe-inspiring natural wonders.",
+    "location": "Grand Canyon National Park, Arizona, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_377",
+    "title": "Travelogue Archive - July 2018",
+    "description": "Panoramic view of the Las Vegas Strip.",
+    "location": "Las Vegas Strip, Las Vegas, Nevada, USA",
+    "category": "cityscape"
+  },
+  {
+    "cand_id": "CAND_378",
+    "title": "Travelogue Archive - October 2018",
+    "description": "A farmhouse nestled amid brilliant fall foliage along a lake near Harbor Springs, Michigan.",
+    "location": "Harbor Springs, Michigan, USA",
+    "category": "landscape"
+  },
+  {
+    "cand_id": "CAND_379",
+    "title": "Evie's Sweet Toddler Smile",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_380",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_381",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_382",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_383",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_384",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_385",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_386",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_387",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_388",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_389",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_390",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_391",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_392",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  },
+  {
+    "cand_id": "CAND_393",
+    "title": "Evie's Happy Milestones",
+    "description": "Baby photoshoot session.",
+    "location": "Naperville, Illinois, USA",
+    "category": "portrait"
+  }
+]
