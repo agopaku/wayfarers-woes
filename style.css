@@ -2234,16 +2234,16 @@ html {
 }
 
 .gallery-grid {
-  columns: 3 320px;
-  column-gap: 24px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
   width: 100%;
 }
 
 .gallery-card {
-  break-inside: avoid;
   display: block;
   width: 100%;
-  margin-bottom: 24px;
+  margin-bottom: 0;
   background-color: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: 12px;
@@ -2401,8 +2401,8 @@ html {
   }
   
   .gallery-grid {
-    columns: 2 280px;
-    column-gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
   }
   
   .gallery-card {
@@ -2416,7 +2416,7 @@ html {
   }
   
   .gallery-grid {
-    columns: 1 100%;
+    grid-template-columns: 1fr;
   }
   
   .filter-bar {
