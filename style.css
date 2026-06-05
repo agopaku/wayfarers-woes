@@ -2238,6 +2238,7 @@ html {
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 24px;
   width: 100%;
+  align-items: start;
 }
 
 .gallery-card {
