@@ -14,10 +14,95 @@ const state = {
   },
   filters: {
     search: '',
-    location: null,    // selected location name or null
-    sortOrder: 'desc'  // 'desc' (newest first) or 'asc' (oldest first)
+    country: null,
+    state: null,
+    place: null,
+    sortOrder: 'desc'
   }
 };
+
+function parseLocationHierarchy(locStr) {
+  if (!locStr) {
+    return { country: 'Other', state: 'Other', place: 'Unknown' };
+  }
+  
+  const locLower = locStr.toLowerCase();
+  
+  // 1. Hawaii / Maui / Oahu / Waikiki checks
+  if (locLower.includes('hawaii') || locLower.includes('maui') || locLower.includes('oahu') || locLower.includes('waikiki') || locLower.includes('hana') || locLower.includes('haleakala') || locLower.includes('napili') || locLower.includes('poi')) {
+    const parts = locStr.split(',').map(p => p.trim());
+    return {
+      country: 'United States',
+      state: 'Hawaii',
+      place: parts[0]
+    };
+  }
+  
+  // 2. Naperville / Illinois check
+  if (locLower.includes('naperville') || locLower.includes('warrenville') || locLower.includes('mchenry') || locLower.includes('chicago') || locLower.includes('starved rock') || locLower.includes('galena') || locLower.includes('bell smith')) {
+    const parts = locStr.split(',').map(p => p.trim());
+    return {
+      country: 'United States',
+      state: 'Illinois',
+      place: parts[0]
+    };
+  }
+  
+  // 3. Kentucky check
+  if (locLower.includes('kentucky') || locLower.includes('green river')) {
+    const parts = locStr.split(',').map(p => p.trim());
+    return {
+      country: 'United States',
+      state: 'Kentucky',
+      place: parts[0]
+    };
+  }
+  
+  // 4. Oregon check
+  if (locLower.includes('oregon') || locLower.includes('vista house')) {
+    const parts = locStr.split(',').map(p => p.trim());
+    return {
+      country: 'United States',
+      state: 'Oregon',
+      place: parts[0]
+    };
+  }
+  
+  // 5. In-flight checks
+  if (locLower.includes('in-flight')) {
+    if (locLower.includes('san francisco')) {
+      return { country: 'United States', state: 'In-flight', place: 'In-flight SF to Chicago' };
+    }
+    return { country: 'In-flight', state: 'International', place: 'In-flight Chennai to Chicago' };
+  }
+
+  // 6. Generic split logic
+  const parts = locStr.split(',').map(p => p.trim());
+  const lastPart = parts[parts.length - 1];
+  
+  if (lastPart === 'USA' || lastPart === 'US' || lastPart === 'United States') {
+    return {
+      country: 'United States',
+      state: parts.length >= 2 ? parts[parts.length - 2] : 'Other',
+      place: parts[0]
+    };
+  }
+  
+  if (lastPart === 'India') {
+    return {
+      country: 'India',
+      state: parts.length >= 2 ? parts[parts.length - 2] : 'Other',
+      place: parts[0]
+    };
+  }
+  
+  // Fallback
+  return {
+    country: 'Other',
+    state: parts.length >= 2 ? parts[parts.length - 1] : 'Other',
+    place: parts[0]
+  };
+}
 
 // Intersection Observer for stagger reveal animation
 let cardObserver;
@@ -38,7 +123,7 @@ async function initGallery() {
     // Filter to DSLR images only (images/ag-edits)
     state.gallery = data.filter(item => item.filename && item.filename.startsWith('images/ag-edits/'));
     
-    // Standardize camera models and lens models on load
+    // Standardize camera models and lens models on load, parse location hierarchies
     state.gallery.forEach(item => {
       if (item.camera === 'Sony Alpha 7 III') {
         item.camera = 'Sony Alpha 7';
@@ -48,6 +133,7 @@ async function initGallery() {
       } else if (item.lens && item.lens.includes('70-300')) {
         item.lens = 'Tamron 70-300mm';
       }
+      item.parsedLocation = parseLocationHierarchy(item.location);
     });
 
     console.log(`Loaded ${state.gallery.length} DSLR images.`);
@@ -101,58 +187,138 @@ function initObserver() {
   }, observerOptions);
 }
 
-// Render dynamic location filter badges
+// Render dynamic location filter badges (Hierarchical)
 function renderLocationBadges() {
-  const container = document.getElementById('locationBadgesContainer');
-  if (!container) return;
+  const countryContainer = document.getElementById('countryBadges');
+  const stateContainer = document.getElementById('stateBadges');
+  const placeContainer = document.getElementById('placeBadges');
   
-  // Extract unique locations from DSLR gallery items
-  const locationsMap = {};
+  if (!countryContainer) return;
+  
+  // 1. Calculate Country Map & active selection
+  const countryMap = {};
   state.gallery.forEach(item => {
-    if (item.location) {
-      locationsMap[item.location] = (locationsMap[item.location] || 0) + 1;
-    }
+    const country = item.parsedLocation.country;
+    countryMap[country] = (countryMap[country] || 0) + 1;
   });
   
-  // Sort locations alphabetically
-  const uniqueLocations = Object.keys(locationsMap).sort();
-  
-  let html = `
-    <button class="location-badge-btn ${!state.filters.location ? 'active' : ''}" onclick="setLocationFilter(null)">
+  const sortedCountries = Object.keys(countryMap).sort();
+  let countryHtml = `
+    <button class="location-badge-btn ${!state.filters.country ? 'active' : ''}" onclick="setCountryFilter(null)">
       All (${state.gallery.length})
     </button>
   `;
-  
-  uniqueLocations.forEach(loc => {
-    const isActive = state.filters.location === loc;
-    html += `
-      <button class="location-badge-btn ${isActive ? 'active' : ''}" onclick="setLocationFilter('${loc.replace(/'/g, "\\'")}')">
-        ${loc} <span class="badge-count">${locationsMap[loc]}</span>
+  sortedCountries.forEach(country => {
+    const activeClass = state.filters.country === country ? 'active' : '';
+    countryHtml += `
+      <button class="location-badge-btn ${activeClass}" onclick="setCountryFilter('${country.replace(/'/g, "\\'")}')">
+        ${country} <span class="badge-count">${countryMap[country]}</span>
       </button>
     `;
   });
+  countryContainer.innerHTML = countryHtml;
   
-  container.innerHTML = html;
+  // 2. Render State row if Country is selected
+  if (state.filters.country) {
+    stateContainer.classList.remove('hidden');
+    
+    const stateMap = {};
+    let filteredCount = 0;
+    state.gallery.forEach(item => {
+      if (item.parsedLocation.country === state.filters.country) {
+        filteredCount++;
+        const st = item.parsedLocation.state;
+        stateMap[st] = (stateMap[st] || 0) + 1;
+      }
+    });
+    
+    const sortedStates = Object.keys(stateMap).sort();
+    let stateHtml = `
+      <button class="location-badge-btn ${!state.filters.state ? 'active' : ''}" onclick="setStateFilter(null)">
+        All in ${state.filters.country} (${filteredCount})
+      </button>
+    `;
+    sortedStates.forEach(st => {
+      const activeClass = state.filters.state === st ? 'active' : '';
+      stateHtml += `
+        <button class="location-badge-btn ${activeClass}" onclick="setStateFilter('${st.replace(/'/g, "\\'")}')">
+          ${st} <span class="badge-count">${stateMap[st]}</span>
+        </button>
+      `;
+    });
+    stateContainer.innerHTML = stateHtml;
+  } else {
+    stateContainer.classList.add('hidden');
+    stateContainer.innerHTML = '';
+  }
+  
+  // 3. Render Place row if State is selected
+  if (state.filters.country && state.filters.state) {
+    placeContainer.classList.remove('hidden');
+    
+    const placeMap = {};
+    let filteredCount = 0;
+    state.gallery.forEach(item => {
+      if (item.parsedLocation.country === state.filters.country && item.parsedLocation.state === state.filters.state) {
+        filteredCount++;
+        const pl = item.parsedLocation.place;
+        placeMap[pl] = (placeMap[pl] || 0) + 1;
+      }
+    });
+    
+    const sortedPlaces = Object.keys(placeMap).sort();
+    let placeHtml = `
+      <button class="location-badge-btn ${!state.filters.place ? 'active' : ''}" onclick="setPlaceFilter(null)">
+        All in ${state.filters.state} (${filteredCount})
+      </button>
+    `;
+    sortedPlaces.forEach(pl => {
+      const activeClass = state.filters.place === pl ? 'active' : '';
+      placeHtml += `
+        <button class="location-badge-btn ${activeClass}" onclick="setPlaceFilter('${pl.replace(/'/g, "\\'")}')">
+          ${pl} <span class="badge-count">${placeMap[pl]}</span>
+        </button>
+      `;
+    });
+    placeContainer.innerHTML = placeHtml;
+  } else {
+    placeContainer.classList.add('hidden');
+    placeContainer.innerHTML = '';
+  }
 }
 
-// Set Location Filter
-function setLocationFilter(location) {
-  state.filters.location = location;
-  state.pagination.currentPage = 1; // Reset to page 1 on new filter
-  
-  // Update badge UI states
-  const badges = document.querySelectorAll('.location-badge-btn');
-  badges.forEach(badge => {
-    const isAllBtn = badge.textContent.includes('All') && location === null;
-    const isMatchedBtn = badge.textContent.includes(location) && location !== null;
-    
-    if (isAllBtn || isMatchedBtn) {
-      badge.classList.add('active');
-    } else {
-      badge.classList.remove('active');
-    }
-  });
-  
+// Hierarchical filter setters
+function setCountryFilter(country) {
+  state.filters.country = country;
+  state.filters.state = null;
+  state.filters.place = null;
+  state.pagination.currentPage = 1;
+  renderLocationBadges();
+  applyFiltersAndSort();
+}
+
+function setStateFilter(st) {
+  state.filters.state = st;
+  state.filters.place = null;
+  state.pagination.currentPage = 1;
+  renderLocationBadges();
+  applyFiltersAndSort();
+}
+
+function setPlaceFilter(pl) {
+  state.filters.place = pl;
+  state.pagination.currentPage = 1;
+  renderLocationBadges();
+  applyFiltersAndSort();
+}
+
+// Keep setLocationFilter for compatibility when clicking location text on gallery cards
+function setLocationFilter(locationStr) {
+  const parsed = parseLocationHierarchy(locationStr);
+  state.filters.country = parsed.country;
+  state.filters.state = parsed.state;
+  state.filters.place = parsed.place;
+  state.pagination.currentPage = 1;
   renderLocationBadges();
   applyFiltersAndSort();
 }
@@ -179,7 +345,7 @@ function toggleSortOrder() {
 
 // Core filter, sort, and render manager
 function applyFiltersAndSort() {
-  const { search, location, sortOrder } = state.filters;
+  const { search, country, state: filterState, place, sortOrder } = state.filters;
   
   // Apply filtering rules
   state.filteredGallery = state.gallery.filter(item => {
@@ -191,10 +357,12 @@ function applyFiltersAndSort() {
       (item.camera && item.camera.toLowerCase().includes(search)) ||
       (item.lens && item.lens.toLowerCase().includes(search));
       
-    // Location badge check
-    const matchesLocation = !location || item.location === location;
+    // Hierarchical location checks
+    const matchesCountry = !country || item.parsedLocation.country === country;
+    const matchesState = !filterState || item.parsedLocation.state === filterState;
+    const matchesPlace = !place || item.parsedLocation.place === place;
     
-    return matchesSearch && matchesLocation;
+    return matchesSearch && matchesCountry && matchesState && matchesPlace;
   });
 
   // Apply sorting rules (default descending date)
@@ -391,7 +559,9 @@ function goToPage(pageNum) {
 // Clear all filter search values and badge triggers
 function clearAllFilters() {
   state.filters.search = '';
-  state.filters.location = null;
+  state.filters.country = null;
+  state.filters.state = null;
+  state.filters.place = null;
   state.filters.sortOrder = 'desc';
   state.pagination.currentPage = 1;
   
