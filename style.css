@@ -2263,11 +2263,13 @@ html {
   position: relative;
   overflow: hidden;
   cursor: pointer;
+  aspect-ratio: 3 / 2;
+  width: 100%;
 }
 
 .gallery-card-img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
   object-fit: cover;
   transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
