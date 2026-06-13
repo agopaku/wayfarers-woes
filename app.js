@@ -26,10 +26,10 @@ const travelHistory = {
   "AZ": { name: "Arizona", visited: true, visits: [{ year: "2020", note: "Cruising the desert highways and canyons under dramatic skies.", albumUrl: "" }] },
   "AR": { name: "Arkansas", visited: true, visits: [{ year: "2017", note: "Riding the winding curves up to White Rock Mountain on the Triumph Tiger (Jul 3).", albumUrl: "" }] },
   "CA": { name: "California", visited: true, visits: [{ year: "2016", note: "Los Angeles road trip — exploring Southern California (Jan 13).", albumUrl: "" }, { year: "2017", note: "Visiting San Francisco and riding the iconic twists of the Pacific Coast Highway (Mar 28).", albumUrl: "" }, { year: "2017", note: "San Francisco trip with mom (Jun 26).", albumUrl: "" }] },
-  "CO": { name: "Colorado", visited: true, visits: [{ year: "2021", note: "Denver visit and Rockies passes (Aug 20 – 22).", albumUrl: "https://photos.google.com/share/AF1QipPijLwA8tmJcmshoAdWbFGq8mLjmCPd5n6TIsQyqcy-m5LZBW6QEPpZWrWAqCSWLg?key=dVVFNXd0bnRVVnF4R3ZfdTc1MV9WbFJQS1hRUlFB" }] },
+  "CO": { name: "Colorado", visited: true, visits: [{ year: "2021", note: "Denver visit and Rockies passes (Aug 20 – 22).", albumUrl: "" }] },
   "CT": { name: "Connecticut", visited: true, visits: [{ year: "2025", note: "Cruising through beautiful New England historic towns.", albumUrl: "" }] },
   "DE": { name: "Delaware", visited: true, visits: [{ year: "2022", note: "Scenic coastal rides along the Delaware Bay.", albumUrl: "" }] },
-  "FL": { name: "Florida", visited: true, visits: [{ year: "2020", note: "Cruising along the Overseas Highway through the Florida Keys (Dec 23 – 28).", albumUrl: "https://photos.google.com/share/AF1QipMqXt7KhRQy8cs7pvA2GWBp2jx5xLfIo18HAhLnuJSLjsYMRc51wDWAo9-O51rcqA?key=RHRJeTRySlFRcHJlcFZWc3NUWXNaUmtQNFRCOXhn" }] },
+  "FL": { name: "Florida", visited: true, visits: [{ year: "2020", note: "Cruising along the Overseas Highway through the Florida Keys (Dec 23 – 28).", albumUrl: "" }] },
   "GA": { name: "Georgia", visited: true, visits: [{ year: "2019", note: "Exploring historic roads, Spanish moss, and Southern paths.", albumUrl: "" }] },
   "HI": { name: "Hawaii", visited: true, visits: [{ year: "2026", note: "Exploring the volcanic coastlines and tropical routes of the islands.", albumUrl: "" }] },
   "ID": { name: "Idaho", visited: true, visits: [{ year: "2021", note: "Riding through rugged river canyons and forest routes.", albumUrl: "" }] },
@@ -52,25 +52,25 @@ const travelHistory = {
   "NH": { name: "New Hampshire", visited: true, visits: [{ year: "2025", note: "Carving through the White Mountains and the Kancamagus Highway.", albumUrl: "" }] },
   "NJ": { name: "New Jersey", visited: true, visits: [{ year: "2022", note: "Scenic coastal rides along the Delaware Water Gap.", albumUrl: "" }] },
   "NM": { name: "New Mexico", visited: true, visits: [{ year: "2020", note: "Exploring red rock mesas, high deserts, and adobe villages.", albumUrl: "" }] },
-  "NY": { name: "New York", visited: true, visits: [{ year: "2023", note: "Niagara Falls and New York trip (May 27 – 28).", albumUrl: "https://photos.google.com/share/AF1QipOqz49qgmjvdSlcFF86i6lR3L1xb0C360EuA6Wn-vL-1eDHN9ba2dNlwCjOlOQGfA" }] },
+  "NY": { name: "New York", visited: true, visits: [{ year: "2023", note: "Niagara Falls and New York trip (May 27 – 28).", albumUrl: "" }] },
   "NC": { name: "North Carolina", visited: true, visits: [{ year: "2017", note: "Exploring the Great Smoky Mountains — the park spans the TN/NC border (Mar 31).", albumUrl: "" }, { year: "2017", note: "Second Smokies visit, TN/NC border (Nov 24).", albumUrl: "" }] },
   "ND": { name: "North Dakota", visited: true, visits: [{ year: "2021", note: "Exploring the rugged beauty of the Theodore Roosevelt Badlands.", albumUrl: "" }] },
   "OH": { name: "Ohio", visited: true, visits: [{ year: "2017", note: "Winding state routes through the scenic Hocking Hills.", albumUrl: "" }] },
   "OK": { name: "Oklahoma", visited: true, visits: [{ year: "2020", note: "Tracing the classic red dirt stretches of historic Route 66.", albumUrl: "" }] },
-  "OR": { name: "Oregon", visited: true, visits: [{ year: "2022", note: "Winding coastal cliffs, towering pines, and Columbia River Gorge (Oct 10 – 18).", albumUrl: "https://photos.google.com/album/AF1QipNa59WuLif5yxf-DWpJxen2krPs7SoaiLaYi-hJ" }] },
+  "OR": { name: "Oregon", visited: true, visits: [{ year: "2022", note: "Winding coastal cliffs, towering pines, and Columbia River Gorge (Oct 10 – 18).", albumUrl: "" }] },
   "PA": { name: "Pennsylvania", visited: true, visits: [{ year: "2022", note: "Crossing historic covered bridges and Allegheny forest routes.", albumUrl: "" }] },
   "RI": { name: "Rhode Island", visited: true, visits: [{ year: "2017", note: "Exploring historic Providence and coastal loops through Narragansett Bay (Apr 30).", albumUrl: "" }] },
   "SC": { name: "South Carolina", visited: true, visits: [{ year: "2019", note: "Warm Southern breeze along the Atlantic coastal marshes.", albumUrl: "" }] },
   "SD": { name: "South Dakota", visited: true, visits: [{ year: "2017", note: "Camping in the Badlands, Mt. Rushmore, and the Black Hills (Sep 1).", albumUrl: "" }] },
-  "TN": { name: "Tennessee", visited: true, visits: [{ year: "2017", note: "Cruising the Great Smoky Mountains and winding valley roads (Mar 31).", albumUrl: "" }, { year: "2017", note: "Land Between the Lakes camping on the KY/TN border (Sep 30).", albumUrl: "" }, { year: "2017", note: "Second visit to the Great Smoky Mountains (Nov 24).", albumUrl: "" }, { year: "2021", note: "Visiting Nashville (May 12 – 17).", albumUrl: "https://photos.google.com/share/AF1QipOoMovE1Y5n88E8TzcP_dcdsDvb47qn-NAmdTS6fL072TQRvO9P7H751ibKooT3Rg?key=VEdRdGpNUE9TOG9UN0w3ejhKWVNzY1Z1U3M1SnlB" }] },
+  "TN": { name: "Tennessee", visited: true, visits: [{ year: "2017", note: "Cruising the Great Smoky Mountains and winding valley roads (Mar 31).", albumUrl: "" }, { year: "2017", note: "Land Between the Lakes camping on the KY/TN border (Sep 30).", albumUrl: "" }, { year: "2017", note: "Second visit to the Great Smoky Mountains (Nov 24).", albumUrl: "" }, { year: "2021", note: "Visiting Nashville (May 12 – 17).", albumUrl: "" }] },
   "TX": { name: "Texas", visited: true, visits: [{ year: "2017", note: "Dallas Fort Worth visit (Aug 26).", albumUrl: "" }] },
   "UT": { name: "Utah", visited: true, visits: [{ year: "2020", note: "Carving through the dramatic red rock canyons of Zion and Bryce.", albumUrl: "" }] },
   "VT": { name: "Vermont", visited: true, visits: [{ year: "2025", note: "Riding green valleys, gap roads, and seeing autumn foliage colors.", albumUrl: "" }] },
   "VA": { name: "Virginia", visited: true, visits: [{ year: "2019", note: "Cruising the Blue Ridge Parkway and Skyline Drive summits.", albumUrl: "" }] },
-  "WA": { name: "Washington", visited: true, visits: [{ year: "2022", note: "Exploring the Olympic Peninsula loop and Seattle (Oct 10 – 18).", albumUrl: "https://photos.google.com/album/AF1QipNa59WuLif5yxf-DWpJxen2krPs7SoaiLaYi-hJ" }] },
+  "WA": { name: "Washington", visited: true, visits: [{ year: "2022", note: "Exploring the Olympic Peninsula loop and Seattle (Oct 10 – 18).", albumUrl: "" }] },
   "WV": { name: "West Virginia", visited: true, visits: [{ year: "2019", note: "Carving the tight, challenging curves of the Appalachian mountains.", albumUrl: "" }] },
   "WI": { name: "Wisconsin", visited: true, visits: [{ year: "2017", note: "Exploring the quiet, scenic roads along the Door County Peninsula.", albumUrl: "" }] },
-  "WY": { name: "Wyoming", visited: true, visits: [{ year: "2017", note: "Devils Tower, Grand Teton passes, and Wyoming high plains — part of the Sep 2017 Black Hills loop.", albumUrl: "" }, { year: "2025", note: "Yellowstone & Grand Teton ride (Sep 27 – Oct 2).", albumUrl: "https://photos.google.com/share/AF1QipObBP9Bv7NaCGTmKLJferEiDse5KkzHpxQ6k6SUDrH8K1xljvyyN7TBQH1c5cyxcA?key=bllPMFpGUjU1czVSQlB2OUtkbjJuaGJqOXJldHZn" }] },
+  "WY": { name: "Wyoming", visited: true, visits: [{ year: "2017", note: "Devils Tower, Grand Teton passes, and Wyoming high plains — part of the Sep 2017 Black Hills loop.", albumUrl: "" }, { year: "2025", note: "Yellowstone & Grand Teton ride (Sep 27 – Oct 2).", albumUrl: "" }] },
   "DC": { name: "Washington D.C.", visited: true, visits: [{ year: "2022", note: "Riding around the historic national malls and monument circles.", albumUrl: "" }] },
 
   // India States & Union Territories
@@ -320,6 +320,9 @@ function filterCategory(category) {
   });
   
   applyFilters();
+  if (typeof trackGAEvent === 'function') {
+    trackGAEvent('category_filtered', { category: category });
+  }
 }
 
 // 7. Filtering Logic by Timeline Node Click
@@ -356,6 +359,10 @@ function filterByTimelineTag(tag) {
     
     // Smooth scroll down to journal grid to show filtered result
     document.getElementById('journal').scrollIntoView({ behavior: 'smooth' });
+    
+    if (typeof trackGAEvent === 'function') {
+      trackGAEvent('timeline_filtered', { tag: tag });
+    }
   }
 }
 
@@ -364,6 +371,9 @@ function handleSearch() {
   const searchInput = document.getElementById('searchInput');
   state.searchQuery = searchInput.value.toLowerCase().trim();
   applyFilters();
+  if (typeof trackSearchQuery === 'function') {
+    trackSearchQuery(state.searchQuery);
+  }
 }
 
 // 9. Consolidate Filters and Render
@@ -560,21 +570,9 @@ function openStateModal(stateId) {
       const card = document.createElement('div');
       card.className = 'visit-log-card';
       
-      // Determine Photo Album URL or Fallback
-      let albumUrl = visit.albumUrl || '';
-      let btnText = 'View Photo Album';
-      if (!albumUrl || albumUrl.trim().length === 0) {
-        albumUrl = `https://photos.google.com/search/${encodeURIComponent(info.name + ' ' + visit.year)}`;
-        btnText = `Search Photos (${visit.year})`;
-      }
-      
       card.innerHTML = `
         <div class="visit-log-header">
           <span class="visit-year">${visit.year}</span>
-          <a href="${albumUrl}" target="_blank" rel="noopener" class="visit-album-btn">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block; vertical-align:middle; margin-right:4px;"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
-            <span>${btnText}</span>
-          </a>
         </div>
         <p class="visit-note">${visit.note}</p>
       `;
